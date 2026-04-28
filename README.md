@@ -53,5 +53,8 @@ This script strictly parses locally downloaded HTML files and does not interact 
 
 However, when manually auditing your account using the generated dashboard, do not unfollow more than 50-70 accounts per hour. Instagram has strict rate limits and automated bot-detection. Unfollowing accounts too rapidly will result in a temporary action block or shadowban. Use this tool responsibly. 
 
-## License
-Distributed under the MIT License.
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Developed by [Shehan Fernando](https://github.com/shehandfernando)*
