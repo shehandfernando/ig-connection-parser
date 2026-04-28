@@ -1,0 +1,5 @@
+# Ignore personal Instagram data files
+*.html
+*.json
+hitlist.txt
+clickable_hitlist.html
